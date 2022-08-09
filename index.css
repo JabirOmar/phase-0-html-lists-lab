@@ -1,0 +1,17 @@
+body
+{
+    background-color: aquamarine;
+}
+div
+{
+  background-color: aquamarine;
+}
+#info
+{
+    background-color: brown;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-size: large;
+    
+}
